@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"6c540ffa9e7a119f08a5d3b0a076aae0","lockfileHash":"a36182b9df4df2933c2763b08253e116","guessedImports":["discord-webhook-node","@discordjs/builders","discord.js","superagent","discord-buttons","firebase","axios","password-gen-v1","ms","undefined_package","quick.db"],"guessedImportsHash":"92addb7b133b9ccb2234b049e23a40c5"}}}
